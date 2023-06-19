@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NAME="cryptodice2.win"
+NAME="Network2Win"
 DJANGODIR=/var/www/cryptodice2.win
 SOCKFILE=/var/www/cryptodice2.win/gunicorn.sock
 USER=hello                                        
